@@ -1,0 +1,59 @@
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+html{
+  font-family: Helvetica, Arial, sans-serif;
+  }
+
+body{
+  padding: 0 10px;
+  }
+
+h1{
+  margin: 67px 0;
+  padding: 20px 0;
+  background: url('../img/pattern.jpeg') repeat;
+
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  }
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+  margin: 12px 0;
+}
+
+p{
+  margin: 8px 0 30px 0;
+  line-height: 22px;
+}
+
+
+img{
+  margin: 8px 0 22px 0;
+  }
+
+.mediumspringgreen{
+  background-color: mediumspringgreen;
+  }
+
+.lightcoral{
+  background-color: lightcoral;
+  }
+
+.skyblue{
+  background-color: skyblue;
+  }
+
+.price{
+  font-weight: bold;
+  color: blue;
+}
